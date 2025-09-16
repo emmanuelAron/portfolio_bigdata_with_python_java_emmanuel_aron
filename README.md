@@ -1,8 +1,9 @@
 # 📊 Portfolio Big Data & Java – Emmanuel Aron  
 
 Bienvenue dans mon portfolio **Big Data **.  
-Il regroupe mes projets autour de **Spark (Java & PySpark)**, **SQL distribué** et d’autres technologies comme **Docker**.  
-Il sera mis à jour en temps voulu.
+Il regroupe mes projets autour de **Spark (Java & PySpark)**, **SQL distribué** et d’autres technologies comme **Docker**.
+D'autres technologies seront mises à jour en temps voulu.
+
 
 ---
 
