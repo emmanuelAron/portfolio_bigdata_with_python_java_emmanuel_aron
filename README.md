@@ -11,7 +11,15 @@ D'autres technologies seront mises à jour en temps voulu.
 
 ### 🔹 Spark avec Java  
 - [spark_learning](https://github.com/emmanuelAron/spark_learning)  
-  *Exercices pratiques Spark Java : DataFrames, RDD, SparkSQL, Streaming.*  
+  *Exercices pratiques Spark Java : DataFrames, RDD, SparkSQL, Streaming.*
+
+  ### ♟️ Spark + Kafka avec Java : [chess-data-pipeline](https://github.com/emmanuelAron/chess-data-pipeline)  
+*Projet (en cours de développement) pour démontrer l’utilisation combinée de **Java, Apache Spark et Apache Kafka** sur des données d’échecs.*  
+* Il utilise également spring-boot et react pour visualiser le résultat de parties d'échecs qui se déroulent coups par coups sur un échiquier, comme un flux continu...*
+- Nettoyage et préparation des fichiers PGN (Spark jobs)  
+- Production et consommation de coups d’échecs en temps réel (Kafka)  
+- Déploiement avec Docker Compose  
+
 
 ### 🔹 Spark avec PySpark  
 - [pyspark_learning](https://github.com/emmanuelAron/pyspark_learning)  
