@@ -13,7 +13,7 @@ D'autres technologies seront mises à jour en temps voulu.
 - [spark_learning](https://github.com/emmanuelAron/spark_learning)  
   *Exercices pratiques Spark Java : DataFrames, RDD, SparkSQL, Streaming.*
 
-### A/B testing et data preparation avec spark  
+### A/B testing et data preparation avec spark  (manipulations avancés de données avec spark)
 - [A/B testing et data preparation avec spark](https://github.com/emmanuelAron/vanguard_spark)  <br>
   *Version spark du projet réalisé en binome (pandas) , formation ironhack * <br>
   Le code de ce projet est visible en live ici : (https://emmanuelaron.github.io/vanguard_spark/) <br>
