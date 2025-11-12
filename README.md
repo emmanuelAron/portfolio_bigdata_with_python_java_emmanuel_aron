@@ -16,6 +16,7 @@ D'autres technologies seront mises à jour en temps voulu.
 ### A/B testing et data preparation avec spark  
 - [A/B testing et data preparation avec spark](https://github.com/emmanuelAron/vanguard_spark)  
   *Version spark du projet réalisé en binome (pandas) , formation ironhack *
+  Le code de ce projet est visible en live ici : https://github.com/emmanuelAron/portfolio_bigdata_with_python_java_emmanuel_aron
 
 
 
