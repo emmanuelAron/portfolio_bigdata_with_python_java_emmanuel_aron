@@ -36,7 +36,7 @@ D'autres technologies seront mises à jour en temps voulu.
   *Travaux pratiques avancés sur Spark (Python).*
 
 ### 🔹 Bases de snowflake
-[bases_de_snowflake](https://github.com/emmanuelAron/snowflake_emmanuel)  <br>
+- [bases_de_snowflake](https://github.com/emmanuelAron/snowflake_emmanuel)  <br>
   *Les bases de Snowflake  <br>
 
 ### 🔹 Autres projets liés  
