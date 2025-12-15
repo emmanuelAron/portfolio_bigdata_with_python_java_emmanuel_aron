@@ -33,7 +33,11 @@ D'autres technologies seront mises à jour en temps voulu.
   *Préparation à la certification Databricks (Structured Streaming, Delta Lake, API DataFrame).*  
 
 - [spark-course-following-taming-big-data](https://github.com/emmanuelAron/spark-course-following-taming-big-data)  
-  *Travaux pratiques avancés sur Spark (Python).*  
+  *Travaux pratiques avancés sur Spark (Python).*
+
+### 🔹 Bases de snowflake
+[bases_de_snowflake](https://github.com/emmanuelAron/snowflake_emmanuel)
+ *Les bases de Snowflake
 
 ### 🔹 Autres projets liés  
 - [emmanuel_docker_configs](https://github.com/emmanuelAron/emmanuel_docker_configs)  
